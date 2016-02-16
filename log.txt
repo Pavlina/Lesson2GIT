@@ -1,0 +1,11 @@
+commit 1ffbbc05f47ad1c169ce08009426c5702cb8d7a4
+Author: pavlysechka <pavlysechka@gmail.com>
+Date:   Tue Feb 16 13:55:31 2016 +0200
+
+    Text is added to test.txt
+
+commit 3edcede64ea02f015dc7c83761de4bf9d6c8a7c2
+Author: pavlysechka <pavlysechka@gmail.com>
+Date:   Tue Feb 16 13:50:01 2016 +0200
+
+    test.txt and log.txt are added
